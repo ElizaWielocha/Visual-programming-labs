@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pborhyRWS9bhUIh2uwFdyUouAzF6DSiWVNmnM93J9VIHbIY8yLsMbrxjpV4Fiigm8jWpu7oJDAm3dnNYbN56QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eliza\\Desktop\\STUDIA\\BIOINFORMATYKA\\Semestr V\\Programowanie wizualne\\Lab 6\\WpfApp6\\WpfApp6\\WpfApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eliza\\.nuget\\packages\\documentformat.openxml\\2.14.0\\documentformat.openxml.2.14.0.nupkg.sha512",
+    "C:\\Users\\Eliza\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
