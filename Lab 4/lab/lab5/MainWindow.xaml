@@ -1,0 +1,19 @@
+﻿<Window x:Class="lab5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Wybierz obrazek" HorizontalAlignment="Left" Margin="484,32,0,0" VerticalAlignment="Top" FontSize="25" Click="Button_Click"/>
+        <Button x:Name="lustro" Content="Lustrzane odbicie" HorizontalAlignment="Left" Margin="39,69,0,0" VerticalAlignment="Top" FontSize="25" Click="lustro_Click" />
+        <Button x:Name="obrot" Content="Obrót o 90 stopni"  HorizontalAlignment="Left" Margin="39,134,0,0" VerticalAlignment="Top" FontSize="25" Click="obrot_Click"/>
+        <Button x:Name="zielony" Content="Tylko zielone barwy" HorizontalAlignment="Left" Margin="39,0,0,0" VerticalAlignment="Center" FontSize="25" Click="zielony_Click" />
+        <Button x:Name="negatyw" Content="Negatyw" HorizontalAlignment="Left" Margin="39,297,0,0" VerticalAlignment="Top" FontSize="25" Click="negatyw_Click"/>
+        <Image x:Name="image1" HorizontalAlignment="Left" Stretch="Fill" Height="350" Margin="400,69,0,0" VerticalAlignment="Top" Width="350" ></Image>
+        <Button x:Name="reset" Content="Resetuj negatyw" HorizontalAlignment="Left" Margin="39,339,0,0" VerticalAlignment="Top" FontSize="25" Click="reset_Click"/>
+        <Button x:Name="reset_Copy" Content="Resetuj zielone barwy" HorizontalAlignment="Left" Margin="39,236,0,0" VerticalAlignment="Top" FontSize="25" Click="reset_Click"/>
+    </Grid>
+</Window>
