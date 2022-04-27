@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp7.oddaj_okno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="oddaj_okno" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="text_kto_o" HorizontalAlignment="Left" Margin="77,151,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="20" Height="30" TextChanged="text_kto_o_TextChanged"/>
+        <TextBox x:Name="text_co_o" HorizontalAlignment="Left" Margin="77,252,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" Height="30" FontSize="20" TextChanged="text_co_o_TextChanged"/>
+        <Label Content="Wpisz ID osoby oddającej książkę:" HorizontalAlignment="Left" Margin="77,109,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="Wpisz ID oddawanej książki:" HorizontalAlignment="Left" Margin="77,210,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button x:Name="oddaj" Content="Oddaj" HorizontalAlignment="Left" Margin="618,322,0,0" VerticalAlignment="Top" FontSize="20" Width="100" Click="oddaj_Click"/>
+        <Label Content="ODDAWANIE KSIĄŻKI" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,58 @@
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_cz_okno.g.cs
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_ks_okno.g.cs
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_cz_okno.baml
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_ks_okno.baml
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.genruntimeconfig.cache
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\wypozycz_okno.g.cs
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\wypozycz_okno.baml
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\oddaj_okno.g.cs
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\oddaj_okno.baml
+C:\Users\Eliza\Desktop\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.dll.config
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.exe
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.dll.config
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.deps.json
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.json
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.runtimeconfig.dev.json
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\bin\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.csproj.AssemblyReference.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_cz_okno.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_ks_okno.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\oddaj_okno.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\wypozycz_okno.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7_MarkupCompile.lref
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_cz_okno.baml
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\add_ks_okno.baml
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\oddaj_okno.baml
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\wypozycz_okno.baml
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.g.resources
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfoInputs.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.AssemblyInfo.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.dll
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.pdb
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 7\WpfApp7\WpfApp7\obj\Debug\netcoreapp3.1\WpfApp7.genruntimeconfig.cache

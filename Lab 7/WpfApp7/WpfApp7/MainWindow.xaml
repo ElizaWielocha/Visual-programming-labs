@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000" Closing="Window_Closing">
+    <Grid>
+        <ListView Name="lvUsers" Height="400" Margin="25,10,575,174" IsSynchronizedWithCurrentItem="True" Width="400">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Imię" Width="130" DisplayMemberBinding="{Binding name}"/>
+                    <GridViewColumn Header="Nazwisko" Width="130" DisplayMemberBinding="{Binding username}"/>
+                    <GridViewColumn Header="ID" Width="130" DisplayMemberBinding="{Binding id}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView Name="Books" Height="400" Margin="576,10,24,174" IsSynchronizedWithCurrentItem="True" Width="400">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Tytuł" Width="95" DisplayMemberBinding="{Binding title}"/>
+                    <GridViewColumn Header="Autor" Width="95" DisplayMemberBinding="{Binding autor}"/>
+                    <GridViewColumn Header="ID" Width="95" DisplayMemberBinding="{Binding id}"/>
+                    <GridViewColumn Header="Wypozyczona" Width="95" DisplayMemberBinding="{Binding borrowed}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="wypozycz" Content="Wypożycz" HorizontalAlignment="Center" Margin="0,129,0,0" VerticalAlignment="Top" FontSize="20" Width="100" Click="wypozycz_Click"/>
+        <Button x:Name="oddaj" Content="Oddaj" HorizontalAlignment="Center" Margin="0,198,0,0" VerticalAlignment="Top" Width="100" FontSize="20" Click="oddaj_Click"/>
+        <Button x:Name="dodaj_cz" Content="Dodaj czytelnika" HorizontalAlignment="Left" Margin="100,471,0,0" VerticalAlignment="Top" FontSize="20" Width="200" Click="dodaj_cz_Click"/>
+        <Button x:Name="dodaj_ks" Content="Dodaj książkę" HorizontalAlignment="Left" Margin="700,471,0,0" VerticalAlignment="Top" Width="200" FontSize="20" Click="dodaj_ks_Click"/>
+    </Grid>
+</Window>
