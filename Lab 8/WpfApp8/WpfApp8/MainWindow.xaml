@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lotniska" Width="420" Height="350" Margin="33,42,467,92" SelectionChanged="lotniska_SelectionChanged"/>
+        <Button x:Name="szczegoly" Content="Szczegóły" HorizontalAlignment="Left" Margin="604,352,0,0" VerticalAlignment="Top" Width="130" Height="40" FontSize="20" Click="szczegoly_Click"/>
+        <TextBox HorizontalAlignment="Left" Margin="469,42,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="270" Height="250"/>
+        <CheckBox x:Name="icao" Content="Kod lotniska ICAO" HorizontalAlignment="Left" Margin="484,69,0,0" VerticalAlignment="Top" FontSize="20" Checked="icao_Checked" Unchecked="icao_Checked"/>
+        <CheckBox x:Name="iata" Content="Kod lotniska IATA" HorizontalAlignment="Left" Margin="484,106,0,0" VerticalAlignment="Top" FontSize="20" Checked="iata_Checked" Unchecked="iata_Checked"/>
+        <CheckBox x:Name="liczba" Content="Liczba pasażerów" HorizontalAlignment="Left" Margin="484,143,0,0" VerticalAlignment="Top" FontSize="20" Checked="liczba_Checked" Unchecked="liczba_Checked"/>
+        <CheckBox x:Name="wojewodztwo" Content="Województwo" HorizontalAlignment="Left" Margin="484,180,0,0" VerticalAlignment="Top" FontSize="20" Checked="wojewodztwo_Checked" Unchecked="wojewodztwo_Checked"/>
+        <CheckBox x:Name="miasto" Content="Miasto" HorizontalAlignment="Left" Margin="484,217,0,0" VerticalAlignment="Top" FontSize="20" Checked="miasto_Checked" Unchecked="miasto_Checked"/>
+
+    </Grid>
+</Window>
