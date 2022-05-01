@@ -1,0 +1,40 @@
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.exe
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.deps.json
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.runtimeconfig.json
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.runtimeconfig.dev.json
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.dll
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.pdb
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.csproj.AssemblyReference.cache
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9_MarkupCompile.cache
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9_MarkupCompile.lref
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.g.resources
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.AssemblyInfoInputs.cache
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.AssemblyInfo.cs
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.dll
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.pdb
+C:\Users\Eliza\Desktop\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.genruntimeconfig.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.exe
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.deps.json
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.runtimeconfig.json
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.runtimeconfig.dev.json
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.dll
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\bin\Debug\netcoreapp3.1\WpfApp9.pdb
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.csproj.AssemblyReference.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9_MarkupCompile.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9_MarkupCompile.lref
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.g.resources
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.AssemblyInfoInputs.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.AssemblyInfo.cs
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.dll
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.pdb
+C:\Users\Eliza\Desktop\STUDIA\BIOINFORMATYKA\Semestr V\Programowanie wizualne\Lab 9\WpfApp9\WpfApp9\obj\Debug\netcoreapp3.1\WpfApp9.genruntimeconfig.cache

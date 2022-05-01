@@ -1,0 +1,149 @@
+﻿<Window x:Class="WpfApp9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="2200" Width="1400" Closing="Window_Closing">
+    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" >
+        <Grid>
+            <Image Source="https://si.cs.put.poznan.pl/user/themes/mlg/img/putLogoColor.png" HorizontalAlignment="Left" Height="250" Margin="130,80,0,0" VerticalAlignment="Top" Width="250"/>
+            <Label Content="pracy dyplomowej " HorizontalAlignment="Left" Margin="468,205,0,0" VerticalAlignment="Top" FontSize="30"/>
+            <Label Content="Karta" HorizontalAlignment="Left" Margin="468,161,0,0" VerticalAlignment="Top" FontSize="30"/>
+            <Label Content="Uczelnia:" HorizontalAlignment="Left" Margin="200,456,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Kierunek:" HorizontalAlignment="Left" Margin="195,511,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Studia w zakresie:" HorizontalAlignment="Left" Margin="111,565,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Profil studiów:" HorizontalAlignment="Left" Margin="788,456,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Forma studiów:" HorizontalAlignment="Left" Margin="777,511,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Poziom studiów:" HorizontalAlignment="Left" Margin="767,561,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Line X1="0" Y1="45" X2="200" Y2="45" Stroke="Black" StrokeThickness="20" Margin="97,392,-987,0" VerticalAlignment="Top" Height="647"></Line>
+            <Line X1="0" Y1="45" X2="400" Y2="45" Stroke="LightGray" StrokeThickness="20" Margin="296,392,-987,0" VerticalAlignment="Top" Height="647"></Line>
+            <Line X1="0" Y1="45" X2="200" Y2="45" Stroke="Black" StrokeThickness="20" Margin="737,392,-987,0" VerticalAlignment="Top" Height="647"></Line>
+            <Line X1="0" Y1="45" X2="400" Y2="45" Stroke="LightGray" StrokeThickness="20" Margin="936,392,-987,0" VerticalAlignment="Top" Height="647"></Line>
+            <Line X1="0" Y1="45" X2="600" Y2="45" Stroke="Black" StrokeThickness="1" Margin="97,452,-987,0" VerticalAlignment="Top" Height="587"></Line>
+            <Line X1="0" Y1="45" X2="600" Y2="45" Stroke="Black" StrokeThickness="1" Margin="97,511,-987,0" VerticalAlignment="Top" Height="528"></Line>
+            <Line X1="0" Y1="45" X2="600" Y2="45" Stroke="Black" StrokeThickness="1" Margin="97,565,-987,0" VerticalAlignment="Top" Height="474"></Line>
+            <Line X1="0" Y1="45" X2="600" Y2="45" Stroke="Black" StrokeThickness="1" Margin="737,452,-987,0" VerticalAlignment="Top" Height="587"></Line>
+            <Line X1="0" Y1="45" X2="600" Y2="45" Stroke="Black" StrokeThickness="1" Margin="737,511,-987,0" VerticalAlignment="Top" Height="528"></Line>
+            <Line X1="0" Y1="45" X2="600" Y2="45" Stroke="Black" StrokeThickness="1" Margin="737,565,-987,0" VerticalAlignment="Top" Height="474"></Line>
+            <Label Content="Politechnika Poznańska" HorizontalAlignment="Left" Margin="390,452,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <TextBox x:Name="kierunek" HorizontalAlignment="Left" Margin="390,511,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="kierunek_TextChanged"/>
+            <TextBox x:Name="zakres" HorizontalAlignment="Left" Margin="390,569,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="zakres_TextChanged"/>
+            <TextBox x:Name="profil" HorizontalAlignment="Left" Margin="1025,456,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="profil_TextChanged"/>
+            <TextBox x:Name="forma" HorizontalAlignment="Left" Margin="1025,511,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="forma_TextChanged"/>
+            <TextBox x:Name="poziom" HorizontalAlignment="Left" Margin="1025,569,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="poziom_TextChanged"/>
+
+            <TextBlock x:Name="formulka" HorizontalAlignment="Left" Margin="100,661,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="1250" Height="300" FontSize="20"/>
+
+
+            <Line X1="0" Y1="45" X2="200" Y2="45" Stroke="Black" StrokeThickness="20" Margin="97,958,-987,0" VerticalAlignment="Top" Height="82" RenderTransformOrigin="0.5,0.5">
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+            <Line X1="0" Y1="45" X2="1045" Y2="45" Stroke="LightGray" StrokeThickness="20" Margin="297,958,-987,0" VerticalAlignment="Top" Height="82" RenderTransformOrigin="0.5,0.5">
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+            <Label Content="Imię i nazwisko" HorizontalAlignment="Left" Margin="506,980,0,0" VerticalAlignment="Top"/>
+            <Label Content="Nr albumu" HorizontalAlignment="Left" Margin="899,983,0,0" VerticalAlignment="Top"/>
+            <Label Content="Data i podpis" HorizontalAlignment="Left" Margin="1150,983,0,0" VerticalAlignment="Top" Height="32"/>
+            <Label Content="Student:" HorizontalAlignment="Left" Margin="202,1039,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Student:" HorizontalAlignment="Left" Margin="202,1100,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Student:" HorizontalAlignment="Left" Margin="202,1161,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Student:" HorizontalAlignment="Left" Margin="204,1218,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1039,-987,0" VerticalAlignment="Top" Height="161"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1100,-987,0" VerticalAlignment="Top" Height="100"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1161,-987,0" VerticalAlignment="Top" Height="113"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1218,-987,0" VerticalAlignment="Top" Height="94"></Line>
+
+            <TextBox x:Name="student1" HorizontalAlignment="Left" Margin="387,1043,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="22" TextChanged="student1_TextChanged"/>
+            <TextBox x:Name="nr_alb1" HorizontalAlignment="Left" Margin="872,1043,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="22" TextChanged="nr_alb1_TextChanged"/>
+            <TextBox x:Name="data_pod1" HorizontalAlignment="Left" Margin="1082,1040,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="data_pod1_TextChanged"/>
+            <TextBox x:Name="student2" HorizontalAlignment="Left" Margin="390,1108,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="22" TextChanged="student2_TextChanged"/>
+            <TextBox x:Name="nr_alb2" HorizontalAlignment="Left" Margin="876,1108,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="22" TextChanged="nr_alb2_TextChanged"/>
+            <TextBox x:Name="data_pod2" HorizontalAlignment="Left" Margin="1082,1108,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="data_pod2_TextChanged"/>
+            <TextBox x:Name="student3" HorizontalAlignment="Left" Margin="390,1163,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="22" TextChanged="student3_TextChanged"/>
+            <TextBox x:Name="nr_alb3" HorizontalAlignment="Left" Margin="876,1165,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="22" TextChanged="nr_alb3_TextChanged"/>
+            <TextBox x:Name="data_pod3" HorizontalAlignment="Left" Margin="1082,1165,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="data_pod3_TextChanged"/>
+            <TextBox x:Name="student4" HorizontalAlignment="Left" Margin="390,1226,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="22" TextChanged="student4_TextChanged"/>
+            <TextBox x:Name="nr_alb4" HorizontalAlignment="Left" Margin="876,1222,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="22" TextChanged="nr_alb4_TextChanged"/>
+            <TextBox x:Name="data_pod4" HorizontalAlignment="Left" Margin="1082,1222,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="250" FontSize="22" TextChanged="data_pod4_TextChanged"/>
+
+            <Line X1="0" Y1="45" X2="200" Y2="45" Stroke="Black" StrokeThickness="20" Margin="97,1299,-987,0" VerticalAlignment="Top" Height="95" RenderTransformOrigin="0.5,0.5">
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+            <Line X1="0" Y1="45" X2="1045" Y2="45" Stroke="LightGray" StrokeThickness="20" Margin="297,1304,-987,0" VerticalAlignment="Top" Height="90" RenderTransformOrigin="0.5,0.5">
+                <Line.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Line.RenderTransform>
+            </Line>
+            <Label Content="Tytuł pracy:" HorizontalAlignment="Left" Margin="171,1365,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Wersja angielska" HorizontalAlignment="Left" Margin="123,1421,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="tytułu:" HorizontalAlignment="Left" Margin="223,1441,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Dane wejściowe" HorizontalAlignment="Left" Margin="130,1526,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Zakres pracy:" HorizontalAlignment="Left" Margin="155,1643,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Termin oddania" HorizontalAlignment="Left" Margin="134,1740,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="pracy:" HorizontalAlignment="Left" Margin="225,1757,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Promotor:" HorizontalAlignment="Left" Margin="188,1810,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="Jednostka" HorizontalAlignment="Left" Margin="186,1868,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="organizacyjna" HorizontalAlignment="Left" Margin="151,1897,0,0" VerticalAlignment="Top" FontSize="22"/>
+            <Label Content="promotora:" HorizontalAlignment="Left" Margin="177,1926,0,0" VerticalAlignment="Top" FontSize="22"/>
+
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1365,-987,0" VerticalAlignment="Top" Height="165"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1441,-987,0" VerticalAlignment="Top" Height="89"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1555,-987,0" VerticalAlignment="Top" Height="178"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1687,-987,0" VerticalAlignment="Top" Height="140"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1757,-987,0" VerticalAlignment="Top" Height="145"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1816,-987,0" VerticalAlignment="Top" Height="130"></Line>
+            <Line X1="0" Y1="45" X2="1245" Y2="45" Stroke="Black" StrokeThickness="1" Margin="100,1926,-987,0" VerticalAlignment="Top" Height="161"></Line>
+            <TextBox x:Name="tytul" HorizontalAlignment="Left" Margin="375,1373,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="950" FontSize="22" TextChanged="tytul_TextChanged"/>
+            <TextBox x:Name="wersja_ang" HorizontalAlignment="Left" Margin="375,1441,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="950" FontSize="22" TextChanged="wersja_ang_TextChanged"/>
+            <TextBox x:Name="dane_wej" HorizontalAlignment="Left" Margin="375,1516,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="950" FontSize="22" Height="60" TextChanged="dane_wej_TextChanged"/>
+            <TextBox x:Name="zakres_pracy" HorizontalAlignment="Left" Margin="375,1633,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="950" FontSize="22" Height="60" TextChanged="zakres_pracy_TextChanged"/>
+            <TextBox x:Name="termin" HorizontalAlignment="Left" Margin="375,1757,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="950" FontSize="22" TextChanged="termin_TextChanged"/>
+            <TextBox x:Name="promotor" HorizontalAlignment="Left" Margin="375,1818,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="950" FontSize="22" TextChanged="promotor_TextChanged"/>
+            <TextBox x:Name="j_organ" HorizontalAlignment="Left" Margin="375,1905,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="950" FontSize="22" TextChanged="j_organ_TextChanged"/>
+
+            <Line X1="0" Y1="45" X2="400" Y2="45" Stroke="Black" StrokeThickness="1" Margin="936,2048,-987,0" VerticalAlignment="Top" Height="126"></Line>
+            <Line X1="0" Y1="45" X2="500" Y2="45" Stroke="Black" StrokeThickness="1" Margin="390,2048,-987,0" VerticalAlignment="Top" Height="126"></Line>
+            <Label Content="podpis dyrektora/kierownika jednostki organizacyjnej promotora" HorizontalAlignment="Left" Margin="468,2092,0,0" VerticalAlignment="Top"/>
+            <Label Content="data i podpis Dziekana" HorizontalAlignment="Left" Margin="1085,2093,0,0" VerticalAlignment="Top"/>
+            <TextBox x:Name="podpis_dyr" HorizontalAlignment="Left" Margin="494,2052,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="300" FontSize="22" TextChanged="podpis_dyr_TextChanged"/>
+            <TextBox x:Name="data_pod_dziekan" HorizontalAlignment="Left" Margin="1030,2052,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" FontSize="22" TextChanged="data_pod_dziekan_TextChanged"/>
+            <ComboBox x:Name="jaka_praca" HorizontalAlignment="Left" Margin="742,212,0,0" VerticalAlignment="Top" Width="250" BorderBrush="White" FontSize="22">
+                <ComboBox.Background>
+                    <LinearGradientBrush EndPoint="0,1">
+                        <GradientStop Color="#FFF0F0F0"/>
+                        <GradientStop Color="#FFFFFDFD" Offset="1"/>
+                        <GradientStop Color="#FFF3F3F3" Offset="1"/>
+                    </LinearGradientBrush>
+                </ComboBox.Background>
+            </ComboBox>
+        </Grid>
+    </ScrollViewer>
+</Window>
