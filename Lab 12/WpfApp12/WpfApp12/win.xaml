@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp12.win"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp12"
+        mc:Ignorable="d"
+        Title="win" Height="450" Width="800">
+    <Grid>
+        <Label Content="GRATULACJE!!!" HorizontalAlignment="Left" Margin="354,39,0,0" VerticalAlignment="Top"/>
+        <Label Content="Znalezione zwierzątko to:" HorizontalAlignment="Left" Margin="326,108,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="obrazek" HorizontalAlignment="Left" Height="150" Margin="321,134,0,0" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="zwierze" Content="" HorizontalAlignment="Left" Margin="400,305,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
